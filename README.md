@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Core AI Engineer at **Difras AI** 
+# Core AI Engineer at **Difras AI** 
 
 ---
 
